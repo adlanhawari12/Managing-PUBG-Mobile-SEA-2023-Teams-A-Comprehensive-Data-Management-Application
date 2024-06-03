@@ -1,4 +1,4 @@
-# capstone-project_modul1_adlan
+# Managing PUBG Mobile SEA 2023 Teams: A Comprehensive Data Management Application
 PUBG Mobile SEA 2023 Team Data Management Application
 Overview
 Welcome to the PUBG Mobile SEA 2023 Team Data Management Application. This application is designed to manage the team data for the PUBG Mobile Super League in South East Asia. The application offers functionalities to create, read, update, and delete team data, along with a unique feature for awarding teams. The application is built using Python and provides a user-friendly menu-driven interface.
