@@ -1,10 +1,12 @@
 # capstone-project_modul1_adlan
-This project using the Python programming language about create read upload delete and 1 additional unique menu about the PUBG Mobile Super League in South East Asia, there are 6 main menus in the application:
-1. Pubg mobile sea 2023 team data report
-2. Added PUBG Mobile Sea 2023 data
-3. Updated PUBG Mobile Sea 2023 data
-4. Delete PUBG Mobile Sea 2023 data
-5. Awarding the PUBG Mobile Sea 2023 team
-6. Exit the program
+PUBG Mobile SEA 2023 Team Data Management Application
+Overview
+Welcome to the PUBG Mobile SEA 2023 Team Data Management Application. This application is designed to manage the team data for the PUBG Mobile Super League in South East Asia. The application offers functionalities to create, read, update, and delete team data, along with a unique feature for awarding teams. The application is built using Python and provides a user-friendly menu-driven interface.
 
-Each main menu is structured and connected to each other
+Features
+Pubg Mobile SEA 2023 Team Data Report: View a comprehensive report of all the teams participating in the PUBG Mobile SEA 2023.
+Add PUBG Mobile SEA 2023 Data: Add new team data to the system.
+Update PUBG Mobile SEA 2023 Data: Update existing team data.
+Delete PUBG Mobile SEA 2023 Data: Delete team data from the system.
+Awarding the PUBG Mobile SEA 2023 Team: Special feature to award teams based on performance or other criteria.
+Exit the Program: Exit the application.
